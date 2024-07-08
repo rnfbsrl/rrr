@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "99814777413",
+    "firebase_url": "https://test-krg-default-rtdb.firebaseio.com",
+    "project_id": "test-krg",
+    "storage_bucket": "test-krg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99814777413:android:043d33aec1adec52bf792c",
+        "android_client_info": {
+          "package_name": "com.example.ilink_beauty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb46IpzcXYIRiv8JK9gbXYO8-SYkxBfuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99814777413:android:ae3cf0e10d9d20ccbf792c",
+        "android_client_info": {
+          "package_name": "com.example.test_db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb46IpzcXYIRiv8JK9gbXYO8-SYkxBfuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
